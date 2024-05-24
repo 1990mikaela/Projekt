@@ -1,6 +1,5 @@
 # Project Title
-
-Chatbot for Mental Health
+ Chatbot for Mental Health
 
 ## Summary
 
